@@ -1,0 +1,12 @@
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder 0 for block blk_38865049064139660 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-6952295868487656571 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: Received block blk_3587508140051953248 of size 67108864 from /10.251.42.84
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_6414780839746545638 terminating
+081109 203615 148 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.43.21:50010 is added to blk_-4980916519894289629 size 67108864
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-2660968665988291858 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: Received block blk_8791727180576505526 of size 67108864 from /10.251.110.130
+081109 203615 148 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.14.224:50010 is added to blk_4248427904947538851 size 67108864
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-671679554222829988 terminating
+081109 203615 148 INFO dfs.DataNode$PacketResponder: Received block blk_-402854694892498697 of size 67108864 from /10.251.198.198
+081109 203615 148 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.18.210:50010 is added to blk_-5765216905574394253 size 67108864
+081109 203615 148 INFO dfs.DataNode$PacketResponder: PacketResponder 0 for block blk_-3510102848157441682 terminating
