@@ -1,6 +1,6 @@
 # go-ulp
 
-A Go implementation of the **ULP (Unified Log Parser)** algorithm from the paper ["An Effective Approach for Parsing Large Log Files"](https://ieeexplore.ieee.org/document/9978308) (ICSME 2022).
+A Go implementation of the **ULP (Unified Log Parser)** algorithm from the paper ["An Effective Approach for Parsing Large Log Files"](paper/ICSME2022_ULP.pdf) (ICSME 2022).
 
 ULP extracts log templates from unstructured log files by combining string matching for grouping with local frequency analysis for separating static and dynamic tokens.
 
